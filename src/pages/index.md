@@ -2,17 +2,54 @@
 templateKey: index-page
 title: SMA Maarif Sukorejo
 image: /img/vasily-koloda-620886-unsplash.jpg
-heading: Great coffee with a conscience
+heading: SMA Maarif Sukorejo Pasuruan
 subheading: >-
   Unggul berdasarkan Imtaq, IPTEK, berwawasan kearifan lokal dan cinta
   lingkungan
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: SELAMAT DATANG DI SMAMAS online
+  description: >-
+    Assalamu’alaikum Warahmatullahi Wabarakatuh
+
+
+
+    Alhamdulillah, Segala puja-puji syukur kita panjatkan ke hadlirat Allah SWT
+    yang hanya atas limpahan rahmah, hidayah dan inayah-Nya lah sehingga kita
+    dapat berjumpa dan bersilaturahmi dalam kondisi yang berbahagia ini. Salam
+    dan shalawat semoga senantiasa tetap tercurahkan kepada junjungan dan
+    panutan kita, suri tauladan kita Nabiyullah Muhammad SAW yang telah
+    membimbing kita dalam kenikmatan nuansa Islami hingga kini.
+
+
+
+    Perkembangan zaman di era milenial ini telah membawa sejuta perubahan di
+    semua lini, baik perubahan kecil, perubahan sedang dan bahkan perubahan
+    mileneal itu sendiri, dan jika kita tidak mampu mengikuti perubahan itu maka
+    besar dimungkinkan kita akan tergerus dan tergilas oleh roda zaman. Kita
+    sadari perubahan yang terjadi dari hari ke hari sangatlah dinamis, yang
+    menuntut kita bersama untuk segera bersikap positif untuk membaca perubahan
+    ini.
+
+    Sebuah kata kiasan menyatakan bahwa tidak setiap perubahan akan membawa
+    kemajuan, namun mana ada kemajuan tanpa diawali oleh sebuah perubahan.
+    SMAMAS online ini dibuat salah satu pertimbangannya adalah untuk menjawab
+    tantangan perubahan tersebut di atas.
+
+    Memang terlalu dini dan kecil atas perubahan ini namun setidaknya dengan
+    perubahan ini kami berharap dapat membawa sejuta perubahan yang lebih baik
+    di masa mendatang. Allahumma Aamiin.
+
+
+    Mohon maaf atas segala kekurangan dan kekhilafan kami, tentu sangat kami
+    harapkan adalah semua masukan, kritik dan saran membangun demi perbaikan
+    semuanya. Terima kasih.
+
+    Salam edukasi …
+
+    Wassalamu’alaikum Warahmatullahi Wabarakatuh
+
+
+    (admin)
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
