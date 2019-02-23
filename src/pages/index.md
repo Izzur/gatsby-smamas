@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: SMA Maarif Sukorejo
-image: /img/home-jumbotron.jpg
+image: /img/vasily-koloda-620886-unsplash.jpg
 heading: Great coffee with a conscience
 subheading: >-
   Unggul berdasarkan Imtaq, IPTEK, berwawasan kearifan lokal dan cinta
